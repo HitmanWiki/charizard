@@ -535,6 +535,7 @@ nav {
     /* 73.7px */
     text-transform: uppercase;
     margin-bottom: 10px;
+    text-align: center;
 }
 
 .about-left h3 span {
@@ -550,6 +551,7 @@ nav {
     line-height: 160%;
     /* 28.8px */
     margin-bottom: 30px;
+    text-align: center;
 }
 
 .about-left ul {
